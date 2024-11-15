@@ -1,0 +1,15 @@
+p{
+    color: pink;
+}
+
+h1{
+    background-color: orange;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
